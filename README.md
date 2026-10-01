@@ -1,16 +1,25 @@
-## Hi there 👋
+# Iran Ancient — Professional Admin Panel
+نسخه حرفه‌ای اولیه پنل مدیریت ایران باستان.
 
-<!--
-**iranancient/Iranancient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### امکانات
+- صفحه ورود مدیر
+- تم هخامنشی/تخت جمشید با طلایی و قهوه‌ای
+- انیمیشن ورود و رابط کاربری
+- داشبورد آماری
+- نمودار تعاملی Chart.js
+- مدیریت مقالات
+- میراث و بناها
+- خط زمانی
+- کاربران
+- تنظیمات
+- حالت روشن/تاریک
+- ریسپانسیو موبایل
 
-Here are some ideas to get you started:
+### ورود دمو
+Username: `admin`
+Password: `iranancient`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> این ورود صرفاً نمایشی است و برای محیط واقعی باید به احراز هویت سمت سرور متصل شود.
+
+### GitHub Pages
+فایل‌ها را در repository قرار دهید و از Settings → Pages، شاخه `main` و پوشه root را انتخاب کنید.
